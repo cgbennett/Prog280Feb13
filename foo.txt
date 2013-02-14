@@ -1,3 +1,4 @@
 foo
 Another foo for you.
 
+More information
